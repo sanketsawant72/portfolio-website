@@ -40,24 +40,19 @@ body.dark-theme .certificate-provider-card {
 }
 
 body.dark-theme .skill-card:hover {
-    background-color: #3a3a3a;
     border-color: #666;
-    box-shadow: 0 8px 20px rgba(255,255,255,0.1);
 }
 
 body.dark-theme .project-card:hover {
     transform: translateY(-10px) scale(1.03);
-    box-shadow: 0 15px 35px rgba(255,255,255,0.15);
 }
 
 body.dark-theme .internship-card:hover {
     transform: translateY(-8px) scale(1.02);
-    box-shadow: 0 12px 30px rgba(0,157,255,0.2);
 }
 
 body.dark-theme .certificate-provider-card:hover {
     transform: translateY(-10px) scale(1.03);
-    box-shadow: 0 15px 35px rgba(255,0,255,0.3);
 }
 
 body.dark-theme .btn {
@@ -375,12 +370,9 @@ section{
 
 .skill-card:hover{
     transform: translateY(-5px) scale(1.05);
-    box-shadow: 0 8px 20px rgba(0,157,255,0.3);
-    background: linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%);
 }
 
 .skill-card:hover i{
-    color: #ff00ff;
     transform: scale(1.2) rotate(5deg);
 }
 
@@ -482,7 +474,6 @@ section{
 
 .project-card:hover{
     transform: translateY(-10px) scale(1.03);
-    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
 }
 
 .project-card h3{
@@ -547,7 +538,6 @@ section{
 
 .internship-card:hover{
     transform: translateY(-8px) scale(1.02);
-    box-shadow: 0 12px 30px rgba(0,157,255,0.3);
 }
 
 .internship-card i{
@@ -593,8 +583,6 @@ section{
 }
 
 .certificate-btn:hover{
-    background: black;
-    color: white;
     transform: scale(1.05);
 }
 
@@ -622,7 +610,6 @@ section{
 
 .certificate-provider-card:hover{
     transform: translateY(-10px) scale(1.03);
-    box-shadow: 0 15px 35px rgba(255,0,255,0.3);
 }
 
 .certificate-provider-card i{
